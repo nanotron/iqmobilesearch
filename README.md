@@ -1,4 +1,6 @@
-iqmobile
-========
+iqmobilesearch
+==============
 
-iQ Mobile Search for iPhone, Android &amp; smartphone devices - http://iqmobilesearch.com
+<img src="http://iqmobilesearch.com/apple-touch-icon.png" />
+
+iQ Mobile Search for mobile browsers - http://iqmobilesearch.com
