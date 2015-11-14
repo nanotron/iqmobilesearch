@@ -1,7 +1,6 @@
 <?php error_reporting (E_ALL ^ E_NOTICE); ?>
 <?  
   /*
-    iQ Mobile Search v2.6
     Author: Ernest Millan
   */
 
